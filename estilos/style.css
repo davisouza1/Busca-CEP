@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+    background-color: #e5e5e5;
+    text-align: center;
+    padding-top: 200px;
+}
+
+h1{
+    color: rgb(0, 0, 116);
+    font-size: 3em;
+}
+
+button{
+    color: white;
+    background-color: rgb(0, 0, 116);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#resultado{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: green;
+}
